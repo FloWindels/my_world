@@ -1,4 +1,4 @@
-q/*
+/*
 ** EPITECH PROJECT, 2025
 ** save
 ** File description:
